@@ -1,4 +1,4 @@
-# Frontend-Gary
+# Frontend
 
 - Vue.Js
 
@@ -14,4 +14,4 @@
     /* Dev*/
     npm run dev
   </code>
-</pre>"# Frontend-gary" 
+</pre>"# Frontend" 
